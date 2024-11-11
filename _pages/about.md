@@ -6,4 +6,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-hello
+My name is jian chen, a passionate AI researcher, focusing on humans: face, body, pose, gesture, movement. I'm currently employed at iluvatar. 
